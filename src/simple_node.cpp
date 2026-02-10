@@ -1,4 +1,4 @@
-#include "simple_node.hpp"
+#include "simple_node.h"
 #include <godot_cpp/variant/utility_functions.hpp>
 
 using namespace godot;

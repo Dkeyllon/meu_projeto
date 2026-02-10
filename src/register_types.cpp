@@ -1,5 +1,5 @@
-#include "register_types.hpp"
-#include "simple_node.hpp"
+#include "register_types.h"
+#include "simple_node.h"
 
 #include <gdextension_interface.h>
 #include <godot_cpp/core/defs.hpp>
